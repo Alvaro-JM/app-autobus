@@ -1,2 +1,3 @@
 # app-autobus
-Aplicación para gestionar bonobus de Rober
+Ejercicio de clase.
+Aplicación para gestionar diferentes tipos de bonos de transporte.
